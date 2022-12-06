@@ -22,8 +22,8 @@ From the more physical side, this first prototype was realised with 8 LDR sensor
 
 The first step, was realising a prototype through the use of a breadboard that could be then translated to a more stable and usable prototype. The resistors used are 10KΩ.
 
-![bread-board.png](LUCE%20%E3%83%A9%E3%82%A4%E3%83%88%208833904e0af543489434f3e6610549f0/bread-board.png)
+![bread-board.png](img/bread-board.png)
 
 From this, the realisation of a diagram that helps building a prototype that can be used to perform. 
 
-![circuit_diagram.png](LUCE%20%E3%83%A9%E3%82%A4%E3%83%88%208833904e0af543489434f3e6610549f0/circuit_diagram.png)
+![circuit_diagram.png](img/circuit_diagram.png)
