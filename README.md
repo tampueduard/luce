@@ -30,7 +30,7 @@ From this, the realisation of a diagram that helps realising a prototype that al
 
 ![circuit_diagram.png](img/circuit_diagram.png)
 
-A prefboard is used in order to create a stable interface for the sensors, designed with multi-pin connection heads, in order to create a more flexible system in which was possible to easily replace eventually broken cables:
+A prefboard is used in order to create a stable interface for the sensors, designed with multi-pin connection heads, in order to create a more flexible system in which was possible to easily replace eventually broken cables.
 
 Note. An acrylic pice is placed on the bottom (the soldered side) of the prefboard in order to protect the connections.
 
